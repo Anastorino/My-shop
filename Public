@@ -1,0 +1,16 @@
+export const products = [
+  {
+    id: 'prod_1',
+    name: 'T-shirt cool',
+    description: 'Un T-shirt super confortable',
+    price: 2000, // 20.00 €
+    image: '/images/tshirt.jpg',
+  },
+  {
+    id: 'prod_2',
+    name: 'Mug stylé',
+    description: 'Un mug pour bien commencer la journée',
+    price: 1500,
+    image: '/images/mug.jpg',
+  },
+];
